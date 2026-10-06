@@ -14,7 +14,7 @@ export default function Profile() {
             ["Email", "sahil@example.com"],
             ["Education", "B.Tech — CSE (IoT)"],
             ["Location", "Nagpur, India"],
-            ["Target Role", "AI / GenAI Engineer"],
+            ["Target Role", "Full Stack Developer"],
             ["Experience", "Fresher / Entry Level"]
           ].map(([label, value]) => (
             <Grid item xs={12} md={6} key={label}>
